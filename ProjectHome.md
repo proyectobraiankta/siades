@@ -1,0 +1,1 @@
+Este sistema te permite administrar toda una escuela desde una simple aplicación web, desde la caja, control de asistencia, servicio web para los padres y alumnos, agenda y datos personales
